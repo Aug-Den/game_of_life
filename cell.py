@@ -1,4 +1,7 @@
 class Cell():
+
+    __CONSTANTE_GRID_INITAL =" 🥚"
+
     def __init__(self, coordinate):
         __coordinate = coordinate
 
